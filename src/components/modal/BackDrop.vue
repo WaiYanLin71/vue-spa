@@ -1,5 +1,5 @@
 <template>
-  <div class="back-drop">
+  <div class="back-drop row justify-content-center">
     <slot></slot>
   </div>
 </template>
